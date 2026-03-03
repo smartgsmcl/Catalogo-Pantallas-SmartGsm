@@ -50,7 +50,7 @@ const stock = [
 { m: "SAMSUNG", mod: "A03 Core", c: "Estándar", p: "10.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A04 / A04E / A04S", c: "Estándar", p: "10.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A05", c: "Estándar", p: "10.000", s: "Disponible" },
-{ m: "SAMSUNG", mod: "A05S", c: "Estándar", p: "15.000", s: "AGOTADA" },
+{ m: "SAMSUNG", mod: "A05S", c: "Estándar", p: "15.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A06", c: "Estándar", p: "10.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A7 2018", c: "Oled", p: "39.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A7 2018", c: "Incell", p: "12.000", s: "AGOTADA" },
@@ -390,3 +390,4 @@ const stock = [
 // Exportar datos para la aplicación
 
 window.inventarioSmartGSM = stock;
+

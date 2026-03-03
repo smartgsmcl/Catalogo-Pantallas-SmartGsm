@@ -272,7 +272,7 @@ const stock = [
 { m: "HUAWEI", mod: "P30", c: "Oled", p: "45.000", s: "Disponible" },
 { m: "HUAWEI", mod: "P30 Lite", c: "Estándar", p: "11.000", s: "AGOTADA" },
 { m: "HUAWEI", mod: "P30 Pro", c: "Oled", p: "67.000", s: "Disponible" },
-{ m: "HUAWEI", mod: "P40 Lite", c: "Estándar", p: "18.000", s: "Disponible" },
+{ m: "HUAWEI", mod: "P40 Lite", c: "Estándar", p: "18.000", s: "AGOTADA" },
 { m: "HUAWEI", mod: "Mate 10 Lite", c: "Estándar", p: "10.000", s: "Disponible" },
 { m: "HUAWEI", mod: "Mate 20 Lite", c: "Estándar", p: "11.000", s: "Disponible" },
 { m: "HUAWEI", mod: "Y5 2018 / Y5 Prime", c: "Estándar", p: "10.000", s: "Disponible" },
@@ -388,4 +388,5 @@ const stock = [
 ];
 
 // Exportar datos para la aplicación
+
 window.inventarioSmartGSM = stock;

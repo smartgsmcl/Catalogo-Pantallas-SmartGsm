@@ -32,7 +32,7 @@ const stock = [
             { m: "iPHONE", mod: "13 Mini", c: "Incell", p: "41.000", s: "AGOTADA" },
             { m: "iPHONE", mod: "13", c: "Soft Oled JK", p: "59.000", s: "Disponible" },
             { m: "iPHONE", mod: "13", c: "Incell", p: "27.000", s: "Disponible" },
-            { m: "iPHONE", mod: "13 Pro", c: "Incell JK", p: "32.000", s: "Disponible" },
+            { m: "iPHONE", mod: "13 Pro", c: "Incell JK", p: "32.000", s: "AGOTADA" },
             { m: "iPHONE", mod: "13 Pro", c: "Incell", p: "23.000", s: "Disponible" },
             { m: "iPHONE", mod: "13 Pro", c: "GX Oled", p: "65.000", s: "Disponible" },
             { m: "iPHONE", mod: "13 Pro Max", c: "GX Oled", p: "65.000", s: "Disponible" },

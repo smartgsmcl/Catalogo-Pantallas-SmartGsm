@@ -55,7 +55,7 @@ const stock = [
 { m: "SAMSUNG", mod: "A7 2018", c: "Oled", p: "39.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A7 2018", c: "Incell", p: "12.000", s: "AGOTADA" },
 { m: "SAMSUNG", mod: "A10 / A10s / A11", c: "Estándar", p: "10.000", s: "Disponible" },
-{ m: "SAMSUNG", mod: "A12/A02", c: "Estándar", p: "9.000", s: "Disponible" },
+{ m: "SAMSUNG", mod: "A12/A02", c: "Estándar", p: "9.000", s: "AGOTADA" },
 { m: "SAMSUNG", mod: "A13 4G", c: "Estándar", p: "10.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A13 5G", c: "Estándar", p: "15.000", s: "Disponible" },
 { m: "SAMSUNG", mod: "A14 5G", c: "Estándar", p: "11.000", s: "Disponible" },
